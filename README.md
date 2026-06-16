@@ -76,7 +76,7 @@ Total outfit combinations: **162 × 159 × 179 = 4,610,682** possibilities
 
 **Simaab Malik**  
 SAP ID: 54910  
-BS Software Engineering, 6th Semester  
+BS Software Engineering 
 Riphah International University  
 **Supervisor**: Ma'am Shumaila Qayyum  
 **Session**: Spring 2026 - 6th Sem
